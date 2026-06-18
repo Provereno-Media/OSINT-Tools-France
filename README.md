@@ -1,5 +1,5 @@
 # OSINT-Tools-France
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/800px-Flag_of_France.svg.png" alt="FLAG-OF-FRANCE"/>
+<img src="https://en.wikipedia.org/wiki/Flag_of_France#/media/File:Flag_of_France.svg" alt="FLAG-OF-FRANCE"/>
 A list of OSINT resources and tools that may be useful to you when conducting investigations related to France. Some tools are available in english. 
 
 ## Contributions
