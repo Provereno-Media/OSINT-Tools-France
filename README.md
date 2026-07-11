@@ -39,6 +39,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [Updated media ownership infographic](https://www.monde-diplomatique.fr/cartes/PPA) by _Le Monde Diplomatique_.
 - [Societe.com](https://www.societe.com). Registration required
 - [Societe Ninja](https://www.societe.ninja). Free public company information. Custom search
+- [VeriSources : verifier la fiabilite d'une entreprise](https://verisources.fr/guides/verifier-fiabilite-entreprise-gratuitement), free step-by-step FR method guide combining Infogreffe, Sirene, INPI and other official registers to vet a company.
 
 ## Maps
 - [Cadastral map](https://cadastre.data.gouv.fr/), very useful to quickly check the reference of a specific parcel.
@@ -58,6 +59,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [Copains d'avant](https://copainsdavant.linternaute.com/recherche-amis), french social network, mostly useful for researching older people.
 - [Official directory of lawyers](https://www.cnb.avocat.fr/fr/annuaire-des-avocats-de-france)
 - Try [OSINT Industries](https://app.osint.industries) and don't forget about the [Digital Profiler's Toolkit](https://github.com/paulpogoda/Digital-Profiler-s-Toolkit)
+- [VeriSources : trouver des informations sur une personne](https://verisources.fr/guides/trouver-informations-publiques-quelquun), free step-by-step FR method guide to legally find public information about a person.
 
 ## Public procurement
 - [Official public procurement platform](https://www.marches-publics.gouv.fr/)
