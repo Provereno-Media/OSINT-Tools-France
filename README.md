@@ -1,5 +1,5 @@
 # OSINT-Tools-France
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="FLAG-OF-FRANCE"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="FLAG-OF-FRANCE"/>
 A list of OSINT resources and tools that may be useful to you when conducting investigations related to France. Some tools are available in english. 
 
 ## Contributions
@@ -39,6 +39,8 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [Updated media ownership infographic](https://www.monde-diplomatique.fr/cartes/PPA) by _Le Monde Diplomatique_.
 - [Societe.com](https://www.societe.com). Registration required
 - [Societe Ninja](https://www.societe.ninja). Free public company information. Custom search
+- - [North Data](https://www.northdata.com/) — North Data covers company data in France.
+- [Tesari First Resort](https://tesari.ai/) — It is a paid platform that offers a Tech for Good (Community Impact) Programme for OSINT practitioners and journalists.
 
 ## Maps
 - [Cadastral map](https://cadastre.data.gouv.fr/), very useful to quickly check the reference of a specific parcel.
